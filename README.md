@@ -15,6 +15,6 @@ Visual Studio release x86
 (replace out.raw with your filename)
 
 ## Credits
-@ericek111 `https://gist.github.com/ericek111/abe5829f6e52e4b25b3b97a0efd0b22b`
+[@ericek111](https://github.com/ericek111) [celt decode demo](https://gist.github.com/ericek111/abe5829f6e52e4b25b3b97a0efd0b22b)
 
-celt-0.11.0 `https://github.com/mumble-voip/celt-0.11.0`
+[celt-0.11.0](https://github.com/mumble-voip/celt-0.11.0)
