@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\sox-14-4-2\sox.exe" -t raw -r 22050 -e signed -b 16 -c 1 -L %1 out.wav
