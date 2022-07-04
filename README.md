@@ -6,7 +6,9 @@ Visual Studio release x86
 ## Usage
 1.Get encoded **`voicedata`** from your favourite **csgo demo parser**.I used [demofile](https://github.com/saul/demofile)
 
-2.Decode voicedata using compiled **decode_voicedata.exe**, you can grab multi encoded voicedata files onto .exe and they will all be decoded into .raw files.
+2.Decode voicedata using compiled **decode_voicedata.exe**, you can grab multi encoded voicedata files onto .exe and they will all be decoded into .raw audio files.
+
+Important:  **tier0.dll** and **vaudio_celt.dll** must be at same folder of .exe(they can be found in csgo's folder)
 
 3.Convert .raw audio files to .wav or other audio files using [sox](http://sox.sourceforge.net/) with command line
 ```
